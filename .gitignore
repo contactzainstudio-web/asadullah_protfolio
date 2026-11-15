@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+.env
+.env.local
+.env*.local
+.vercel
+*.log
+*.tsbuildinfo
+next-env.d.ts
+.pm2/
+*.tar.gz
+*.zip
+.agents/
+skills-lock.json
